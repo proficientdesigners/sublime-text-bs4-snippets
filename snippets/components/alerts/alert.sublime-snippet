@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="alert ${1:alert-primary|alert-secondary|alert-success|alert-danger|alert-warning|alert-info|alert-light|alert-dark}" role="alert">
+  A simple alert—check it out!
+</div>
+]]>
+</content>
+	<tabTrigger>b4-alert</tabTrigger>
+	<description>Alert</description>
+</snippet>

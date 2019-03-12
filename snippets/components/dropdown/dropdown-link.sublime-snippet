@@ -1,0 +1,18 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="dropdown">
+  <a class="btn ${1:btn-primary|btn-secondary|btn-success|btn-danger|btn-warning|btn-info|btn-light|btn-dark} dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown link
+  </a>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+  </div>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-dropdown-link</tabTrigger>
+	<description>Dropdown</description>
+</snippet>

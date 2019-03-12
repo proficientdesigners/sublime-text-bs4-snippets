@@ -1,0 +1,13 @@
+<snippet>
+<content>
+<![CDATA[
+<ul class="list-group list-group-horizontal-${1:sm|md|lg|xl}">
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+  <li class="list-group-item">Morbi leo risus</li>
+</ul>
+]]>
+</content>
+	<tabTrigger>b4-listgroup-horizontal</tabTrigger>
+	<description>ListGroup</description>
+</snippet>

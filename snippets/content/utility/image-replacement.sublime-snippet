@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<h1 class="text-hide" style="background-image: url('...');">Bootstrap</h1>
+]]>
+</content>
+	<tabTrigger>b4-image-replacement</tabTrigger>
+	<description>Image Replacement</description>
+</snippet>

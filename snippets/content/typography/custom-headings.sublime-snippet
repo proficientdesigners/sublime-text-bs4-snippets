@@ -1,0 +1,12 @@
+<snippet>
+<content>
+<![CDATA[
+<h3>
+  Fancy display heading
+  <small class="text-muted">With faded secondary text</small>
+</h3>
+]]>
+</content>
+	<tabTrigger>b4-custom-headings</tabTrigger>
+	<description>Headings</description>
+</snippet>

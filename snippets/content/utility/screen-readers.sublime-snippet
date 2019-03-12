@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+]]>
+</content>
+	<tabTrigger>b4-screen-readers</tabTrigger>
+	<description>ScreenReaders</description>
+</snippet>

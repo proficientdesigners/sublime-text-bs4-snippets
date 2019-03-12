@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+<p class="lead">
+  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.
+</p>
+]]>
+</content>
+	<tabTrigger>b4-lead</tabTrigger>
+	<description>Lead</description>
+</snippet>

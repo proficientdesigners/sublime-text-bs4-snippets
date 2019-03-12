@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<button type="button" class="btn btn-outline ${1:btn-primary|btn-secondary|btn-success|btn-danger|btn-warning|btn-info|btn-light|btn-dark}">Button</button>
+]]>
+</content>
+	<tabTrigger>b4-btn-outline</tabTrigger>
+	<description>Button</description>
+</snippet>

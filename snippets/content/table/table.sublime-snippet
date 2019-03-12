@@ -1,0 +1,41 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="${1:table-responsive|table-responsive-sm|table-responsive-md|table-responsive-lg|table-responsive-xl}">
+	<table class="table ${2:table-striped|table-dark|table-bordered|table-borderless|table-hover|table-sm}">
+	  <caption>List of users</caption>
+	  <thead class="${3:thead-dark|thead-light}">
+	    <tr>
+	      <th scope="col">#</th>
+	      <th scope="col">First</th>
+	      <th scope="col">Last</th>
+	      <th scope="col">Handle</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <th scope="row">1</th>
+	      <td>Mark</td>
+	      <td>Otto</td>
+	      <td>@mdo</td>
+	    </tr>
+	    <tr>
+	      <th scope="row">2</th>
+	      <td>Jacob</td>
+	      <td>Thornton</td>
+	      <td>@fat</td>
+	    </tr>
+	    <tr>
+	      <th scope="row">3</th>
+	      <td>Larry</td>
+	      <td>the Bird</td>
+	      <td>@twitter</td>
+	    </tr>
+	  </tbody>
+	</table>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-table</tabTrigger>
+	<description>Table</description>
+</snippet>

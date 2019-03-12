@@ -1,0 +1,13 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="card">
+  <div class="card-body">
+    This is some text within a card body.
+  </div>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-card</tabTrigger>
+	<description>Card</description>
+</snippet>

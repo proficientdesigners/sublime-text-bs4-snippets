@@ -1,0 +1,12 @@
+<snippet>
+<content>
+<![CDATA[
+​<picture>
+  <source srcset="..." type="image/svg+xml">
+  <img src="..." class="img-fluid img-thumbnail" alt="...">
+</picture>
+]]>
+</content>
+	<tabTrigger>b4-picture</tabTrigger>
+	<description>Picture</description>
+</snippet>
