@@ -141,6 +141,10 @@ Ensure you have enabled "b4" in your Preferences.sublime-settings:
 |  b4-list-unstyled  |
 |  b4-close-icon  |
 |  b4-embed  |
+|  b4-embed-1:1  |
+|  b4-embed-4:3  |
+|  b4-embed-16:9  |
+|  b4-embed-21:9  |
 |  b4-image-replacement  |
 |  b4-screen-readers  |
 |  b4-stretched-link  |

@@ -1,0 +1,12 @@
+<snippet>
+<content>
+<![CDATA[
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="..."></iframe>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-embed-4:3</tabTrigger>
+	<description>Embed</description>
+</snippet>
