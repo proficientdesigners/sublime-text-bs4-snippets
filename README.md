@@ -243,7 +243,7 @@ Ensure you have enabled "b4" in your Preferences.sublime-settings:
 ## Created & maintained by
 
 <p align="center">
-	<img src="https://demo.proficientdesigners.in/logo_with_shadow_name.svg" width="300px" alt="Proficient Designers">
+	<img src="https://demo.proficientdesigners.in/logo_with_shadow_name.png" width="300px" alt="Proficient Designers">
 </p>
 
 ## License
