@@ -20,7 +20,7 @@
     </label>
   </div>
 
-  <button type="submit" class="btn btn-primary mb-2">Submit</button>
+  <button type="submit" class="btn-${1:primary|secondary|success|danger|warning|info|light|dark} mb-2">Submit</button>
 </form>
 ]]>
 </content>

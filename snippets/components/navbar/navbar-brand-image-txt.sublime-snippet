@@ -1,0 +1,14 @@
+<snippet>
+<content>
+<![CDATA[
+<nav class="navbar ${1:navbar-primary|secondary|success|danger|warning|info|light|dark} ${2:bg-primary|secondary|success|danger|warning|info|light|dark}">
+  <a class="navbar-brand" href="#">
+    <img src="/docs/4.3/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+    Bootstrap
+  </a>
+</nav>
+]]>
+</content>
+	<tabTrigger>b4-navbar-image-text</tabTrigger>
+	<description>Navbar</description>
+</snippet>

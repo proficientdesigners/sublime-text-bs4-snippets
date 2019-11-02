@@ -1,0 +1,12 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="custom-control custom-checkbox">
+  <input type="checkbox" class="custom-control-input" id="customCheckDisabled1" disabled>
+  <label class="custom-control-label" for="customCheckDisabled1">Check this custom checkbox</label>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-custom-checkbox-disabled</tabTrigger>
+	<description>CustomCheckbox</description>
+</snippet>

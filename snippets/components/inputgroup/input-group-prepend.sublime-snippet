@@ -1,0 +1,14 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="input-group ${1:input-group-sm|input-group-lg}">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="basic-addon1">@</span>
+  </div>
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+</div>
+]]>
+</content>
+	<tabTrigger>b4-input-group-prepend</tabTrigger>
+	<description>Input Group</description>
+</snippet>

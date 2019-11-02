@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<span class="badge badge-pill ${1:badge-primary|badge-secondary|badge-success|badge-danger|badge-warning|badge-info|badge-light|badge-dark}">Badge</span>
+<span class="badge badge-pill badge-${1:primary|secondary|success|danger|warning|info|light|dark}">Badge</span>
 ]]>
 </content>
 	<tabTrigger>b4-badge-pill</tabTrigger>

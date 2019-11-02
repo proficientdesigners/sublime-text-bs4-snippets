@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+<span class="d-inline-block" tabindex="0" data-toggle="tooltip" title="Disabled tooltip" data-placement="${2:top|right|bottom|left}>
+  <button class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" style="pointer-events: none;" type="button" disabled>Disabled button</button>
+</span>
+]]>
+</content>
+	<tabTrigger>b4-tooltip-disabled</tabTrigger>
+	<description>Tooltip</description>
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<div class="spinner-border ${1:text-primary|text-secondary|text-success|text-danger|text-warning|text-info|text-light|text-dark}" role="status">
+<div class="spinner-border text-${1:primary|secondary|success|danger|warning|info|light|dark}" role="status">
   <span class="sr-only">Loading...</span>
 </div>
 ]]>

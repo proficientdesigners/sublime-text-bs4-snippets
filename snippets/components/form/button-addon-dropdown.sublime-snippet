@@ -4,7 +4,7 @@
 <div class="input-group">
   <input type="text" class="form-control" aria-label="Text input with dropdown button">
   <div class="input-group-append">
-    <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</button>
+    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark} dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</button>
     <div class="dropdown-menu">
       <a class="dropdown-item" href="#">Action</a>
       <a class="dropdown-item" href="#">Another action</a>

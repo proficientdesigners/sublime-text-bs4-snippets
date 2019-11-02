@@ -1,0 +1,17 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="input-group ${1:input-group-sm|input-group-lg}">
+  <div class="input-group-prepend">
+    <span class="input-group-text">$</span>
+  </div>
+  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+  <div class="input-group-append">
+    <span class="input-group-text">.00</span>
+  </div>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-input-group-append-prepend</tabTrigger>
+	<description>Input Group</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<li class="list-group-item disabled" aria-disabled="true">Cras justo odio</li>
+]]>
+</content>
+	<tabTrigger>b4-listgroup-item-disabled</tabTrigger>
+	<description>ListGroup</description>
+</snippet>

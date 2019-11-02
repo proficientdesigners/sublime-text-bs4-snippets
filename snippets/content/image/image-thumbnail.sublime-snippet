@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+​<img src="..." alt="..." class="img-thumbnail">
+]]>
+</content>
+	<tabTrigger>b4-img-thumbnail</tabTrigger>
+	<description>Image Thumbnail</description>
+</snippet>

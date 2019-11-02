@@ -1,0 +1,12 @@
+<snippet>
+<content>
+<![CDATA[
+<button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">
+  Profile <span class="badge badge-light">9</span>
+  <span class="sr-only">unread messages</span>
+</button>
+]]>
+</content>
+	<tabTrigger>b4-btn-badge</tabTrigger>
+	<description>Button</description>
+</snippet>

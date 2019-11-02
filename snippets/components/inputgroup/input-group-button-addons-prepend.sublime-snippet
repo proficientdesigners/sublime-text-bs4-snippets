@@ -1,0 +1,14 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="input-group">
+  <div class="input-group-prepend">
+    <button class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button" id="button-addon1">Button</button>
+  </div>
+  <input type="text" class="form-control" placeholder="" aria-label="Example text with button addon" aria-describedby="button-addon1">
+</div>
+]]>
+</content>
+	<tabTrigger>b4-input-group-button-addons-prepend</tabTrigger>
+	<description>Input Group</description>
+</snippet>

@@ -4,8 +4,8 @@
 <div class="input-group">
   <input type="text" class="form-control" aria-label="Text input with segmented dropdown button">
   <div class="input-group-append">
-    <button type="button" class="btn btn-outline-secondary">Action</button>
-    <button type="button" class="btn btn-outline-secondary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <button type="button" class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark}">Action</button>
+    <button type="button" class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark} dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       <span class="sr-only">Toggle Dropdown</span>
     </button>
     <div class="dropdown-menu">

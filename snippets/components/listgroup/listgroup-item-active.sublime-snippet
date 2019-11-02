@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<li class="list-group-item active">Cras justo odio</li>
+]]>
+</content>
+	<tabTrigger>b4-listgroup-item-active</tabTrigger>
+	<description>ListGroup</description>
+</snippet>

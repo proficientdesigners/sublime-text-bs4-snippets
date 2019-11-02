@@ -1,0 +1,15 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="card text-white bg-${1:primary|secondary|success|danger|warning|info|light|dark}">
+  <div class="card-header">Header</div>
+  <div class="card-body">
+    <h5 class="card-title">Primary card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-card-styles</tabTrigger>
+	<description>Card</description>
+</snippet>

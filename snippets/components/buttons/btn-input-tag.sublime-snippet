@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<input class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button" value="Input">
+]]>
+</content>
+	<tabTrigger>b4-btn-input-tag</tabTrigger>
+	<description>Button</description>
+</snippet>

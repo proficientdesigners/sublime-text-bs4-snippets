@@ -1,0 +1,15 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="input-group">
+  <div class="input-group-prepend">
+    <span class="input-group-text">$</span>
+    <span class="input-group-text">0.00</span>
+  </div>
+  <input type="text" class="form-control" aria-label="Dollar amount (with dot and two decimal places)">
+</div>
+]]>
+</content>
+	<tabTrigger>b4-input-group-multiple-addons-prepend</tabTrigger>
+	<description>Input Group</description>
+</snippet>

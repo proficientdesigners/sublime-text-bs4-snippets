@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<button type="button" class="btn ${1:btn-primary|btn-secondary|btn-success|btn-danger|btn-warning|btn-info|btn-light|btn-dark}" data-toggle="tooltip" data-placement="${2:top|right|bottom|left}" title="Tooltip">
+<button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" data-toggle="tooltip" data-placement="${2:top|right|bottom|left}" title="Tooltip">
   Tooltip
 </button>
 ]]>

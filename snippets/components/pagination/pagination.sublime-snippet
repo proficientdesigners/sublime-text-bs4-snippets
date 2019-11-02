@@ -2,7 +2,7 @@
 <content>
 <![CDATA[
 <nav aria-label="Page navigation example">
-  <ul class="${1:pagination|pagination-sm} ${2:justify-content-center|justify-content-end}">
+  <ul class="pagination pagination-${1:lg|sm} justify-content-${2:center|end}">
     <li class="page-item disabled">
       <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
     </li>

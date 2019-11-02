@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+​<img src="..." class="rounded float-right" alt="...">
+]]>
+</content>
+	<tabTrigger>b4-img-right</tabTrigger>
+	<description>Image Align</description>
+</snippet>

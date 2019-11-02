@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" disabled>Button</button>
+]]>
+</content>
+	<tabTrigger>b4-btn-disabled</tabTrigger>
+	<description>Button</description>
+</snippet>

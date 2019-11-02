@@ -1,0 +1,17 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="input-group">
+  <div class="input-group-prepend">
+    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button" id="inputGroupFileAddon03">Button</button>
+  </div>
+  <div class="custom-file">
+    <input type="file" class="custom-file-input" id="inputGroupFile03" aria-describedby="inputGroupFileAddon03">
+    <label class="custom-file-label" for="inputGroupFile03">Choose file</label>
+  </div>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-input-group-button-custom-file-prepend</tabTrigger>
+	<description>Input Group</description>
+</snippet>

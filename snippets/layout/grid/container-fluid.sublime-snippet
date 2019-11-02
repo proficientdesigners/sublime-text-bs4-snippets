@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="container-fluid">
+  <!-- Content here -->
+</div>
+]]>
+</content>
+	<tabTrigger>b4-container-fluid</tabTrigger>
+	<description>Container Fluid</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="custom-control custom-radio">
+  <input type="radio" name="radioDisabled" id="customRadioDisabled2" class="custom-control-input" disabled>
+  <label class="custom-control-label" for="customRadioDisabled2">Toggle this custom radio</label>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-custom-radio-disabled</tabTrigger>
+	<description>CustomRadio</description>
+</snippet>

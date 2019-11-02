@@ -1,13 +1,53 @@
 ============================================================
-Thank you for installing Bootstrap 4 Snippets
+Thank you for installing Bootstrap 4x Snippets
 ============================================================
 Visit us: https://proficientdesigners.com
 ------------------------------------------------------------
 
-Bootstrap 4.3 snippets is a selection of snippets
+Bootstrap 4.3.1 snippets is a selection of snippets
 that will greatly improve your workflow.
+
+
+Key Features :
+______________
+
+* Supports autocompletion of all helper classes in JavaScript, CSS and HTML
+* Snippet support for all components.
+* Snippet support for templates.
+* Snippet support for layout.
+* Snippet support for content.
+
+
 
 This package is compatible with Sublime Text versions 3.
 
-Documentation, examples & issue filing can be found here:
+
+
+Installation instruction
+________________________
+
+https://github.com/proficientdesigners/sublime-text-bs4-snippets#installation
+
+
+
+
+Usage instruction
+_________________
+
+https://github.com/proficientdesigners/sublime-text-bs4-snippets#usage
+
+
+
+
+Installation instruction
+________________________
+
+https://github.com/proficientdesigners/sublime-text-bs4-snippets#snippets
+
+
+
+
+Issue(s) filing can be found here:
+__________________________________
+
 https://github.com/proficientdesigners/sublime-text-bs4-snippets/issues

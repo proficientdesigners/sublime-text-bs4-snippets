@@ -1,0 +1,24 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="input-group">
+  <div class="input-group-prepend">
+    <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">Action</button>
+    <button type="button" class="btn ${2:btn-primary|secondary|success|danger|warning|info|light|dark} dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <span class="sr-only">Toggle Dropdown</span>
+    </button>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+      <div role="separator" class="dropdown-divider"></div>
+      <a class="dropdown-item" href="#">Separated link</a>
+    </div>
+  </div>
+  <input type="text" class="form-control" aria-label="Text input with segmented dropdown button">
+</div>
+]]>
+</content>
+	<tabTrigger>b4-input-group-button-segmented-prepend</tabTrigger>
+	<description>Input Group</description>
+</snippet>

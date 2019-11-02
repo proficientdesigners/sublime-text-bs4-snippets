@@ -1,0 +1,9 @@
+<snippet>
+<content>
+<![CDATA[
+<a href="#" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} disabled" tabindex="-1" role="button" aria-disabled="true">Link</a>
+]]>
+</content>
+	<tabTrigger>b4-btn-a-disabled</tabTrigger>
+	<description>Button</description>
+</snippet>
