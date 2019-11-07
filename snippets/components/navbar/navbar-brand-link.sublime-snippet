@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<nav class="navbar navbar-light bg-light">
+<nav class="navbar navbar-${1:primary|secondary|success|danger|warning|info|light|dark} bg-{2:primary|secondary|success|danger|warning|info|light|dark}">
   <a class="navbar-brand" href="#">Navbar</a>
 </nav>
 ]]>
