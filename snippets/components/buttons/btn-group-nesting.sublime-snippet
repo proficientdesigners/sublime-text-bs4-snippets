@@ -2,11 +2,11 @@
 <content>
 <![CDATA[
 <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
-  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">1</button>
-  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">2</button>
+  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">1</button>
+  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">2</button>
 
   <div class="btn-group" role="group">
-    <button id="btnGroupDrop1" type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <button id="btnGroupDrop1" type="button" class="btn btn-${2:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm} dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       Dropdown
     </button>
     <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">

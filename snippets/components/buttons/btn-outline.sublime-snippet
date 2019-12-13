@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<button type="button" class="btn btn-outline btn-${1:primary|secondary|success|danger|warning|info|light|dark}">Button</button>
+<button type="button" class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark}">Button</button>
 ]]>
 </content>
 	<tabTrigger>b4-btn-outline</tabTrigger>

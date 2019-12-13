@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<select class="custom-select">
+<select class="custom-select ${1:custom-select-lg|custom-select-sm}">
   <option selected>Open this select menu</option>
   <option value="1">One</option>
   <option value="2">Two</option>

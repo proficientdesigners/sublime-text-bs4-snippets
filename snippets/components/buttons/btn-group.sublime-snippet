@@ -2,9 +2,9 @@
 <content>
 <![CDATA[
 <div class="btn-group" role="group" aria-label="Basic example">
-  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">Left</button>
-  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">Middle</button>
-  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">Right</button>
+  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">Left</button>
+  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">Middle</button>
+  <button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">Right</button>
 </div>
 ]]>
 </content>

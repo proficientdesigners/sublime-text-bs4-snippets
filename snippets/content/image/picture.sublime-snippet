@@ -2,8 +2,8 @@
 <content>
 <![CDATA[
 ​<picture>
-  <source srcset="..." type="image/svg+xml">
-  <img src="..." class="img-fluid img-thumbnail" alt="...">
+  <source srcset="https://via.placeholder.com/300x300" type="image/svg+xml">
+  <img src="https://via.placeholder.com/300x300" class="img-fluid img-thumbnail" alt="...">
 </picture>
 ]]>
 </content>

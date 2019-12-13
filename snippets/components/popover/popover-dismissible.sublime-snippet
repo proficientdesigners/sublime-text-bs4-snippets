@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" data-container="body" data-toggle="popover" data-trigger="focus" data-placement="${2:top|right|bottom|left}" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">
+<button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}" data-container="body" data-toggle="popover" data-trigger="focus" data-placement="${2:top|right|bottom|left}" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">
   Popover on top
 </button>
 ]]>

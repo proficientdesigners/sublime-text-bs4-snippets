@@ -2,7 +2,7 @@
 <content>
 <![CDATA[
 <p>
-  <a class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+  <a class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
     Link with href
   </a>
 </p>

@@ -1,14 +1,14 @@
 <snippet>
 <content>
 <![CDATA[
-<div class="btn-group btn-group-toggle ${2:btn-group-lg|btn-group-sm}" data-toggle="buttons">
-  <label class="btn ${2:btn-primary|secondary|success|danger|warning|info|light|dark} active">
+<div class="btn-group btn-group-toggle ${1:btn-group-lg|btn-group-sm}" data-toggle="buttons">
+  <label class="btn btn-${2:primary|secondary|success|danger|warning|info|light|dark} active">
     <input type="radio" name="options" id="option1" autocomplete="off" checked> Active
   </label>
-  <label class="btn ${2:btn-primary|secondary|success|danger|warning|info|light|dark}">
+  <label class="btn btn-${2:primary|secondary|success|danger|warning|info|light|dark}">
     <input type="radio" name="options" id="option2" autocomplete="off"> Radio
   </label>
-  <label class="btn ${2:btn-primary|secondary|success|danger|warning|info|light|dark}">
+  <label class="btn btn-${2:primary|secondary|success|danger|warning|info|light|dark}">
     <input type="radio" name="options" id="option3" autocomplete="off"> Radio
   </label>
 </div>

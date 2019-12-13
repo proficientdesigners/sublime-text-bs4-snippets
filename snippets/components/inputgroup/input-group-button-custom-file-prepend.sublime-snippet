@@ -3,7 +3,7 @@
 <![CDATA[
 <div class="input-group">
   <div class="input-group-prepend">
-    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button" id="inputGroupFileAddon03">Button</button>
+    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-sm|btn-lg}" type="button" id="inputGroupFileAddon03">Button</button>
   </div>
   <div class="custom-file">
     <input type="file" class="custom-file-input" id="inputGroupFile03" aria-describedby="inputGroupFileAddon03">

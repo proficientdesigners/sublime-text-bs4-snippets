@@ -3,7 +3,7 @@
 <![CDATA[
 <div class="input-group">
   <div class="input-group-prepend">
-    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button">Button</button>
+    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-sm|btn-lg}" type="button">Button</button>
   </div>
   <select class="custom-select" id="" aria-label="Example select with button addon">
     <option selected>Choose...</option>

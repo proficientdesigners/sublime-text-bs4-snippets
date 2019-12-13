@@ -1,9 +1,0 @@
-<snippet>
-<content>
-<![CDATA[
-<button type="button" class="btn btn-lg btn-${1:primary|secondary|success|danger|warning|info|light|dark}">Button</button>
-]]>
-</content>
-	<tabTrigger>b4-btn-lg</tabTrigger>
-	<description>Button</description>
-</snippet>

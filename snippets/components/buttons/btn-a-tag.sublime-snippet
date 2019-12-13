@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<a href="#" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">Link</a>
+<a href="#" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">Link</a>
 ]]>
 </content>
 	<tabTrigger>b4-btn-a-tag</tabTrigger>

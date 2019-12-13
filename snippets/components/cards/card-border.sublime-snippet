@@ -1,9 +1,9 @@
 <snippet>
 <content>
 <![CDATA[
-<div class="card ${1:border-primary|border-secondary|border-success|border-danger|border-warning|border-info|border-light|border-dark}" style="max-width: 18rem;">
+<div class="card border-${1:primary|secondary|success|danger|warning|info|light|dark}" style="max-width: 18rem;">
   <div class="card-header">Header</div>
-  <div class="card-body ${2:text-primary|text-secondary|text-success|text-danger|text-warning|text-info|text-light|text-dark}">
+  <div class="card-body text-${2:primary|secondary|success|danger|warning|info|light|dark}">
     <h5 class="card-title">Primary card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>

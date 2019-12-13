@@ -2,7 +2,7 @@
 <content>
 <![CDATA[
 <div class="dropdown">
-  <button class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <button class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm} dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Dropdown button
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">

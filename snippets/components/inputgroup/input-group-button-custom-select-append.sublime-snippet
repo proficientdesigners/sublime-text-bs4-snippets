@@ -9,7 +9,7 @@
     <option value="3">Three</option>
   </select>
   <div class="input-group-append">
-    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button">Button</button>
+    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-sm|btn-lg}" type="button">Button</button>
   </div>
 </div>
 ]]>

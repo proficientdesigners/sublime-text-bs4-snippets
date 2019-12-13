@@ -7,7 +7,7 @@
     <label class="custom-file-label" for="inputGroupFile04">Choose file</label>
   </div>
   <div class="input-group-append">
-    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button" id="inputGroupFileAddon04">Button</button>
+    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-sm|btn-lg}" type="button" id="inputGroupFileAddon04">Button</button>
   </div>
 </div>
 ]]>

@@ -4,7 +4,7 @@
 <div class="input-group">
   <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2">
   <div class="input-group-append">
-    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button" id="button-addon2">Button</button>
+    <button class="btn btn-outline-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}" type="button" id="button-addon2">Button</button>
   </div>
 </div>
 ]]>

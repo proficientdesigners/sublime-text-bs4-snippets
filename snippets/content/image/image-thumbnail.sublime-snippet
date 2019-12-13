@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-​<img src="..." alt="..." class="img-thumbnail">
+​<img src="https://via.placeholder.com/300x300" alt="..." class="img-thumbnail">
 ]]>
 </content>
 	<tabTrigger>b4-img-thumbnail</tabTrigger>

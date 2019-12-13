@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<button type="button" class="btn active btn-${1:primary|secondary|success|danger|warning|info|light|dark}">Button</button>
+<button type="button" class="btn active btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">Button</button>
 ]]>
 </content>
 	<tabTrigger>b4-btn-active</tabTrigger>

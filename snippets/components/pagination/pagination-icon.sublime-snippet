@@ -2,7 +2,7 @@
 <content>
 <![CDATA[
 <nav aria-label="Page navigation example">
-  <ul class="pagination pagination-${1:lg|sm} justify-content-${2:center|end}">
+  <ul class="pagination ${1:pagination-lg|pagination-sm} ${2:justify-content-center|justify-content-end}">
     <li class="page-item">
       <a class="page-link" href="#" aria-label="Previous">
         <span aria-hidden="true">&laquo;</span>
