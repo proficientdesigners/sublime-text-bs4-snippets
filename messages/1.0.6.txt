@@ -1,0 +1,13 @@
+==================
+Bootstrap 4x Snippets
+Updated To
+V 1.0.6
+==================
+
+Bootstrap 4.4.1 snippets
+
+
+1. Bug fix.
+2. New snippets added
+3. Codes modified.
+4. Bootstrap starter blog template modified.
