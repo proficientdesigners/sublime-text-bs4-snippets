@@ -2,7 +2,7 @@
 <content>
 <![CDATA[
 <!-- Button trigger modal -->
-<button type="button" class="btn-${1:primary|secondary|success|danger|warning|info|light|dark}" data-toggle="modal" data-target="#exampleModalLong">
+<button type="button" class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" data-toggle="modal" data-target="#exampleModalLong">
   Launch demo modal
 </button>
 
@@ -20,8 +20,8 @@
         ...
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn-${4:primary|secondary|success|danger|warning|info|light|dark}" data-dismiss="modal">Close</button>
-        <button type="button" class="btn-${5:primary|secondary|success|danger|warning|info|light|dark}">Save changes</button>
+        <button type="button" class="btn btn-${4:primary|secondary|success|danger|warning|info|light|dark}" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-${5:primary|secondary|success|danger|warning|info|light|dark}">Save changes</button>
       </div>
     </div>
   </div>

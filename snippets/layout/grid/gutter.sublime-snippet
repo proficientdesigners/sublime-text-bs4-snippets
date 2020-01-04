@@ -1,0 +1,14 @@
+<snippet>
+<content>
+<![CDATA[
+<div class="container px-lg-5">
+  <div class="row mx-lg-n5">
+    <div class="col py-3 px-lg-5 border bg-light">Custom column padding</div>
+    <div class="col py-3 px-lg-5 border bg-light">Custom column padding</div>
+  </div>
+</div>
+]]>
+</content>
+	<tabTrigger>b4-gutter</tabTrigger>
+	<description>Gutter</description>
+</snippet>

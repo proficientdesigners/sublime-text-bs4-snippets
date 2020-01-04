@@ -1,8 +1,8 @@
-Bootstrap 4.3 - Sublime Snippets
+Bootstrap 4.4 - Sublime Snippets
 ============================
 
-#### A sublime plugin complete with Bootstrap 4.3 snippets
-###### 👉 Bootstrap 4.3 - Sublime Snippets - *(Currently Bootstrap v4.3.1)*
+#### A sublime plugin complete with Bootstrap 4.4 snippets
+###### 👉 Bootstrap 4.4 - Sublime Snippets - *(Currently Bootstrap v4.4.1)*
 ---
 
 Feel free to let me know what else you want added via:
@@ -16,7 +16,7 @@ Feel free to let me know what else you want added via:
 ## Installation
 There are 3 methods for installing this plugin.
 
-1. Search for "Bootstrap 4.3 Snippets" via the "Package Control: Install Packages" menu.
+1. Search for "Bootstrap 4.4 Snippets" via the "Package Control: Install Packages" menu.
 **Note:** If you don't have Sublime Package Control installed, you can find out how to install it here [https://sublime.wbond.net/installation](https://sublime.wbond.net/installation)
 
 2. Clone the repository into your Sublime Text 3 packages directory.
@@ -33,13 +33,20 @@ Ensure you have enabled "b4" in your Preferences.sublime-settings:
 
 `"auto_complete_triggers": [{"selector": "text.html", "characters": "b4"}]`
 
-## Key Features :
+## Key Features
 
-  - Supports autocompletion of all helper classes in JavaScript, CSS and HTML
   - Snippet support for all components.
   - Snippet support for templates.
   - Snippet support for layout.
   - Snippet support for content.
+
+## Extras
+
+  - Added snippets like `b4-blog-home-template` & `b4-blog-post-template` as an addon for starting a blog post template.
+
+## Demo Video
+
+[![Demo video](https://download.proficientdesigners.in/sublime-demo-video-screenshot.png)](https://youtu.be/A0WOxUwaDPI)
 
 ---
 
@@ -91,8 +98,7 @@ Ensure you have enabled "b4" in your Preferences.sublime-settings:
 | b4-card-img-overlay |
 | b4-card-kitchen-sink |
 | b4-card-list |
-| b4-card-nav-pills |
-| b4-card-nav-tabs |
+| b4-card-nav |
 | b4-card-primary |
 | b4-card-quote |
 | b4-card-styles |
@@ -135,6 +141,7 @@ Ensure you have enabled "b4" in your Preferences.sublime-settings:
 | b4-form-row |
 | b4-form-tooltip-validation |
 | b4-form-validation |
+| b4-gutter |
 | b4-image-replacement |
 | b4-img-center |
 | b4-img-left |
@@ -212,6 +219,7 @@ Ensure you have enabled "b4" in your Preferences.sublime-settings:
 | b4-progress-multiple |
 | b4-radio |
 | b4-radio-inline |
+| b4-row-cols |
 | b4-screen-readers |
 | b4-scrollspy |
 | b4-scrollspy-listgroup |

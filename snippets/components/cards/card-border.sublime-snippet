@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<div class="card border-${1:primary|secondary|success|danger|warning|info|light|dark}" style="max-width: 18rem;">
+<div class="card bg-${1:primary|secondary|success|danger|warning|info|light|dark} border-${1:primary|secondary|success|danger|warning|info|light|dark}" style="max-width: 18rem;">
   <div class="card-header">Header</div>
   <div class="card-body text-${2:primary|secondary|success|danger|warning|info|light|dark}">
     <h5 class="card-title">Primary card title</h5>

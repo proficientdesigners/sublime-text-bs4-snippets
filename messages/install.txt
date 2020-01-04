@@ -4,7 +4,7 @@ Thank you for installing Bootstrap 4x Snippets
 Visit us: https://proficientdesigners.com
 ------------------------------------------------------------
 
-Bootstrap 4.3.1 snippets is a selection of snippets
+Bootstrap 4.4.1 snippets is a selection of snippets
 that will greatly improve your workflow.
 
 

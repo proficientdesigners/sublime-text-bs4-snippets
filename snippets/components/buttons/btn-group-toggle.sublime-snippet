@@ -2,13 +2,13 @@
 <content>
 <![CDATA[
 <div class="btn-group btn-group-toggle" data-toggle="buttons">
-  <label class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} active">
+  <label class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm} active">
     <input type="radio" name="options" id="option1" autocomplete="off" checked> Active
   </label>
-  <label class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">
+  <label class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">
     <input type="radio" name="options" id="option2" autocomplete="off"> Radio
   </label>
-  <label class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}">
+  <label class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}">
     <input type="radio" name="options" id="option3" autocomplete="off"> Radio
   </label>
 </div>

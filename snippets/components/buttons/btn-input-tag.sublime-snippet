@@ -1,7 +1,7 @@
 <snippet>
 <content>
 <![CDATA[
-<input class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark}" type="button" value="Input">
+<input class="btn btn-${1:primary|secondary|success|danger|warning|info|light|dark} ${2:btn-lg|btn-sm}" type="button" value="Input">
 ]]>
 </content>
 	<tabTrigger>b4-btn-input-tag</tabTrigger>

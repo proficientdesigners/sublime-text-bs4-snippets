@@ -1,9 +1,9 @@
 <snippet>
 <content>
 <![CDATA[
-<div class="card text-center">
+<div class="card text-center bg-${1:primary|secondary|success|danger|warning|info|light|dark} text-${2:primary|secondary|success|danger|warning|info|light|dark}">
   <div class="card-header">
-    <ul class="nav nav-tabs card-header-tabs">
+    <ul class="nav ${3:nav-tabs|nav-pills} card-header-tabs">
       <li class="nav-item">
         <a class="nav-link active" href="#">Active</a>
       </li>
@@ -23,6 +23,6 @@
 </div>
 ]]>
 </content>
-	<tabTrigger>b4-card-nav-tabs</tabTrigger>
+	<tabTrigger>b4-card-nav</tabTrigger>
 	<description>Card</description>
 </snippet>
