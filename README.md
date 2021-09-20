@@ -244,10 +244,14 @@ Ensure you have enabled "b4" in your Preferences.sublime-settings:
 
 ---
 
-## Created & maintained by
+## Demo Video
+
+[![Demo video](https://img.youtube.com/vi/A0WOxUwaDPI/maxresdefault.jpg)](https://youtu.be/A0WOxUwaDPI)
+
+## Created by
 
 <p align="center">
-	<img src="https://proficientdesigners.in/wp-content/themes/pd/img/logo_with_shadow_name.png" width="300px" title="Proficient Designers" alt="Proficient Designers">
+	<img src="https://pdapps.net.in/static/media/logo-new.781fe02e.png" width="100px" alt="proficientdesigners">
 </p>
 
 ## License
